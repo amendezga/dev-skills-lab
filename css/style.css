@@ -47,3 +47,9 @@ li {
     margin: 5px;
     padding: 5px;
 }
+
+.instructions-container {
+    width: 400px;
+    text-align: center;
+    color: orange;
+}
